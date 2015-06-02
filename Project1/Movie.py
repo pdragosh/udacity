@@ -17,14 +17,14 @@ class Movie:
 movies = [];
 
 movies.append(Movie('Clueless',
-    'http://upload.wikimedia.org/wikipedia/en/2/21/Clueless.jpg',
-    'https://www.youtube.com/watch?v=RS0KyTZ3Ie4',
-    'http://www.imdb.com/title/tt0112697/'));
+                    'http://upload.wikimedia.org/wikipedia/en/2/21/Clueless.jpg',
+                    'https://www.youtube.com/watch?v=RS0KyTZ3Ie4',
+                    'http://www.imdb.com/title/tt0112697/'));
 
 movies.append(Movie('Uncle Buck',
-    'http://upload.wikimedia.org/wikipedia/en/8/8c/Uncle_buck.jpg',
-    'https://www.youtube.com/watch?v=zXEzA1egFL4',
-    'http://www.imdb.com/title/tt0098554/?ref_=nv_sr_1'));
+                    'http://upload.wikimedia.org/wikipedia/en/8/8c/Uncle_buck.jpg',
+                    'https://www.youtube.com/watch?v=zXEzA1egFL4',
+                    'http://www.imdb.com/title/tt0098554/?ref_=nv_sr_1'));
 
 # Call the code to open a browser and display our favorite movies
 fresh_tomatoes.open_movies_page(movies);
