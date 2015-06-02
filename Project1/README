@@ -1,0 +1,11 @@
+This is a simple static website for listing Movie Trailers of a few of my favorite movies.
+
+Clone this repository:
+
+git clone 
+
+Install python onto you're development machine and then run the Movie.py:
+
+python Movie.py
+
+this should invoke the default browser on you're machine and open the website showing movie trailers.
