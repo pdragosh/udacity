@@ -1,10 +1,16 @@
-This is a simple static website for listing Movie Trailers of a few of my favorite movies.
+This is a simple static website for listing Movie Trailers of a few of my favorite movies. 
+
+It is written in the python programming language.
 
 Clone this repository:
 
-git clone 
+git clone https://github.com/pdragosh/udacity.git
 
-Install python onto you're development machine and then run the Movie.py:
+Install python onto you're development machine:
+
+https://www.python.org/
+
+To run Project1, open a terminal window into the cloned repository directory for Project1 and type:
 
 python Movie.py
 
